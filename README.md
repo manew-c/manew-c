@@ -8,7 +8,7 @@ I've been learning Python, SQL, and Bash script Database MySQL, Postgres, Fireba
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [manassananchantaratin@gmail.com](mailto:manassananchantaratin@gmail.com)
-* 🧠  I'm learning about data warehouse, dataLake, ETL, big data and datapipeline
+* 🧠  I'm learning about data warehouse, dataLake, ETL, big data and data pipeline
 
 ### Skills
 
@@ -22,10 +22,15 @@ I've been learning Python, SQL, and Bash script Database MySQL, Postgres, Fireba
 </p>
 
 
-### Socials
+### Project
+1.Project1 easyETL
 
-<p align="left"> <a href="https://www.github.com/manew-c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+ทำ ETL แบบง่ายๆใช้ bash script ดึงข้อมูลใน zip file แล้วเอาใส่ database Postgres
 
-### Badges
+https://github.com/manew-c/Project1easyETL.git
 
-<a href="https://github.com/manew-c" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manew-c&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+2.Project2 DAG
+
+เขียนDAGโดยpythonและbashเพื่อแปลงไฟล์txtเป็นcsv
+
+https://github.com/manew-c/Project2easyDAG.git
