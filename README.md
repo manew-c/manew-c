@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is manassanan chantaratin
 ==============================================================================================================================================
 
-Bachelor's Degree Graduate who had a passion in becoming a data engineer
-------------------------------------------------------------------------
-
 I've been learning Python, SQL, and Bash script 
 Database Postgres, Firebase 
 Tools MS Excel, Google spreadsheet
