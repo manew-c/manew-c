@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bachelor's Degree Graduate who had a passion in becoming a data engineer
 ------------------------------------------------------------------------
 
-I've been learning Python, SQL, and Bash script Database MySQL, Postgres, Firebase Tools Apache Airflow, Kafka, and Spark
+I've been learning Python, SQL, and Bash script 
+Database Postgres, Firebase 
+Tools MS Excel, Google spreadsheet
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [manassananchantaratin@gmail.com](mailto:manassananchantaratin@gmail.com)
-* 🧠  I'm learning about data warehouse, dataLake, ETL, big data and data pipeline
+* 🧠  I'm learning about  ETL and data analyze 
 
 ### Skills
 
