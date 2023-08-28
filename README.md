@@ -13,33 +13,36 @@ Database Postgresql, MS Excel, Google spreadsheet and Tableau
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 ### Course Certificate
-1. Python for Data Science, AI & Development
+1. Google Data Analytics
+   
+[https://coursera.org/share/5eb7648a132bc325cf08c9aefdf2a201](https://www.coursera.org/account/accomplishments/professional-cert/YWTG8DPDNYRD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+
+2. Python for Data Science, AI & Development
 
 https://coursera.org/share/acfa370b3f58fd23d014367b1f9751d9
 
-2. Introduction to Relational Databases (RDBMS)
+3. Introduction to Relational Databases (RDBMS)
   
 https://coursera.org/share/1abdc1e721a1a39efd520d5e1ce9ce27
 
-3. ETL and Data Pipelines with Shell, Airflow and Kafka
-   
-https://coursera.org/share/5eb7648a132bc325cf08c9aefdf2a201
-
 ### Project
-1.Project1 easyETL
+1. Project cyclistic bike share analysis
 
-ทำ ETL แบบง่ายๆใช้ bash script ดึงข้อมูลใน zip file แล้วเอาใส่ database Postgres
+นำข้อมูลcsv file มาcleaning data โดย python จากนั้นวิเคราะห์ข้อมูลและ vizualize โดย Tableau
+
+2. Project ETL
+
+ทำ ETL แบบโดยใช้ bash script ดึงข้อมูลใน zip file แล้วเอาใส่ database Postgres
 
 https://github.com/manew-c/Project1easyETL.git
 
-2.Project2 DAG
+3. Project DAG
 
 เขียนDAGโดยpythonและbashเพื่อแปลงไฟล์txtเป็นcsv
 
