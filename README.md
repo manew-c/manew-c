@@ -34,6 +34,8 @@ https://coursera.org/share/1abdc1e721a1a39efd520d5e1ce9ce27
 ### Project
 1. Project cyclistic bike share analysis
 
+https://github.com/manew-c/Cyclistic_bike_share_analysis
+
 นำข้อมูลcsv file มาcleaning data โดย python จากนั้นวิเคราะห์ข้อมูลและ vizualize โดย Tableau
 
 2. Project ETL
