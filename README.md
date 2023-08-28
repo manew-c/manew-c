@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is manassanan chantaratin
 ==============================================================================================================================================
 
-I've been learning Python, SQL, and Bash script 
-Database Postgres, Firebase 
-Tools MS Excel, Google spreadsheet
+I've been learning Python and SQL
+Database Postgres, MS Excel, Google spreadsheet, Tableau
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [manassananchantaratin@gmail.com](mailto:manassananchantaratin@gmail.com)
