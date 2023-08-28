@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 I've been learning Python and SQL
-Database Postgres, MS Excel, Google spreadsheet, Tableau
+Database Postgresql, MS Excel, Google spreadsheet and Tableau
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [manassananchantaratin@gmail.com](mailto:manassananchantaratin@gmail.com)
